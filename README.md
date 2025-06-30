@@ -18,3 +18,7 @@ I also structured the script with a clean analyze() function that integrates all
 The report included with this project details each change made and explains its impact on performance and maintainability. Through this task, I gained hands-on experience in writing clean, efficient code, understanding the importance of modularity, and thinking like a professional developer. This project taught me how thoughtful refactoring can enhance the quality of software without changing its output. Task-4 was a great opportunity to apply real-world best practices in code design and optimization, and I successfully transformed a basic script into a production-ready tool that is faster, neater, and more scalable.##
 
 OUTPUT :
+
+       UNCLEAR TEXT COUNTER
+
+<img width="1334" alt="Image" src="https://github.com/user-attachments/assets/8a537b28-84a5-4f3a-8719-8424e0a093e6" />
