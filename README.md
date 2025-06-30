@@ -25,3 +25,4 @@ OUTPUT :
 
       CLEAR TEXT COUNTER
 
+<img width="1014" alt="Image" src="https://github.com/user-attachments/assets/33449ef3-e48b-4fe5-820f-fa84d3222ec8" />
