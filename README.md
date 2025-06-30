@@ -22,3 +22,6 @@ OUTPUT :
        UNCLEAR TEXT COUNTER
 
 <img width="1334" alt="Image" src="https://github.com/user-attachments/assets/8a537b28-84a5-4f3a-8719-8424e0a093e6" />
+
+      CLEAR TEXT COUNTER
+
