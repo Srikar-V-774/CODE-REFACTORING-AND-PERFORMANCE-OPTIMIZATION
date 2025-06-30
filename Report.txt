@@ -1,0 +1,30 @@
+TASK 4: CODE REFACTORING AND PERFORMANCE OPTIMIZATION
+
+Project: Text Analyzer  
+
+Objective:
+Refactor an open-source Text Analyzer to improve readability and performance.
+
+BEFORE (unclear texter.py):
+One big script with no functions.
+Manual counting with loops and duplicate code.
+Not reusable or readable.
+Most common word calculated with a slow custom loop.
+
+AFTER (clear texter.py):
+Separated logic into clear functions.
+Used Python’s built-in Counter for fast word frequency.
+-Used list comprehensions and sum() for speed and simplicity.
+Used with open() for safe file reading.
+Replaced nested loops with efficient code.
+Better variable names and structure.
+
+PERFORMANCE IMPROVEMENTS:
+Faster: Used built-in functions like sum() and Counter.
+Cleaner: Modular functions improve readability and reuse.
+Scalable: Code can now analyze any file, easily extendable.
+Maintainable: Easy to debug, test, and expand.
+
+Final Result:
+Code is now faster, shorter, easier to understand, and more professional.
+
